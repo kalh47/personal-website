@@ -1,0 +1,197 @@
+html, body {
+    margin: 0;
+    color:white;
+    /*background-color: #E5EDFF;
+    color: #132A60;*/
+    font-family: 'Dosis', sans-serif;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    color:white;/* #3371FF;*/
+    font-size: 3vw;
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 27%;    
+}
+
+/* h1:hover {
+    color:white;
+    font-size: 3vw;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 27%;    
+} */
+
+d1 {
+    color: white;
+    font-size: 1.5vw;
+    padding-left: 20%;
+}
+
+#click {
+    width: 13vw;
+    height: 13vw;
+    background-color: aquamarine;
+    margin: 1.5vw 0.75vw;
+    text-align: center;
+    font-size: 2vw;
+}
+
+#click-1 {
+    background-color: #98B0E6;
+    width: 13vw;
+    height: 13vw;
+    margin: 1.5vw 0.75vw;
+    text-align: center;
+    font-size: 2vw;
+    line-height: 13vw;
+    color: black;
+}
+
+#click-1:hover {
+    background-color: #859AC9;
+    width: 13vw;
+    height: 13vw;
+    margin: 1.5vw 0.75vw;
+    text-align: center;
+    font-size: 2vw;
+    line-height: 13vw;
+}
+
+#click-2 {
+    width: 13vw;
+    height: 13vw;
+    background-color:#E698B0;
+    margin: 1.5vw 0.75vw;
+    text-align: center;
+    font-size: 2vw;
+    line-height: 13vw;
+    color: black;
+    text-decoration: none;
+}
+
+#click-2:hover {
+    width: 13vw;
+    height: 13vw;
+    background-color:#C9859A;
+    margin: 1.5vw 0.75vw;
+    text-align: center;
+    font-size: 2vw;
+    line-height: 13vw;
+}
+
+#click-3 {
+    width: 13vw;
+    height: 13vw;
+    background-color:#B0E698;
+    margin: 1.5vw 0.75vw;
+    text-align: center;
+    font-size: 2vw;
+    line-height: 13vw;
+    color: black;
+}
+
+#click-3:hover {
+    width: 13vw;
+    height: 13vw;
+    background-color:#9AC985;
+    margin: 1.5vw 0.75vw;
+    text-align: center;
+    font-size: 2vw;
+    line-height: 13vw;
+}
+
+a {
+    text-decoration: none;
+}
+
+#clicks {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    margin-top: 15%;
+
+}
+
+#clicks-left {
+    width: auto;
+    height: 100%;
+    vertical-align: middle;
+    margin: auto 0 auto auto;
+}
+
+#clicks-right {
+    width:auto;
+    height:100%;
+    top:50%;
+    margin:auto auto auto 0;
+
+}
+
+
+
+
+/*a:link, a:visited {
+    color: #900C3F;
+}*/
+main {
+    padding:0;
+}
+
+body {
+    position: relative;
+    background-image: url('https://images.pexels.com/photos/1341279/pexels-photo-1341279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-size: cover;
+}
+
+footer {
+    position: fixed; 
+    bottom:0;
+    width:100%;
+    background:gray; 
+    text-align: center; 
+    padding: 6px;
+    opacity: 0.7;    
+}
+
+#intro{
+    width: 50%;
+    text-align: right;
+    float: left;
+    height: 100%;
+}
+
+#areas{
+    margin-left: 50%;
+    text-align: left;
+    height: 100%;
+}
+
+
+
+/*ABOUT PAGE*/
+
+h2 {
+    color:white;/* #3371FF;*/
+    font-size: 4vw;
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 5%; 
+    margin-left: 5%;   
+}
+
+/* h1:hover {
+    color:white;
+    font-size: 3vw;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 27%;    
+} */
+
+p {
+    color: white;
+    font-size: 1.7vw;
+    margin-left: 10%;
+    padding: 1%;
+    background-color:rgba(133, 154, 201, .7);
+    margin-right: 10%; 
+    
+}
